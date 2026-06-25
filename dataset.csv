@@ -1,0 +1,31 @@
+Question,Answer
+What is Artificial Intelligence?,"Artificial Intelligence (AI) is the simulation of human intelligence by machines that can learn, reason, and solve problems."
+What is Machine Learning?,Machine Learning is a branch of AI that enables computers to learn from data without being explicitly programmed.
+What is Deep Learning?,Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+What is Python?,"Python is a high-level, interpreted programming language widely used in AI, web development, and automation."
+What is Gradio?,Gradio is a Python library for building interactive web interfaces for machine learning models.
+What is FAISS?,FAISS is a library developed by Meta for efficient similarity search and vector retrieval.
+What is a Vector Database?,A vector database stores embeddings and enables fast semantic similarity search.
+What is an embedding?,An embedding is a numerical vector representation of data that captures its semantic meaning.
+What is NLP?,Natural Language Processing is the field of AI focused on enabling computers to understand and generate human language.
+What is RAG?,Retrieval-Augmented Generation combines information retrieval with large language models to generate grounded responses.
+What is LangChain?,LangChain is a framework for building applications powered by large language models.
+What is an LLM?,A Large Language Model is an AI model trained on massive text datasets to understand and generate natural language.
+What is cosine similarity?,Cosine similarity measures the similarity between two vectors based on the angle between them.
+Why use FAISS?,FAISS enables fast nearest-neighbor search over large collections of vector embeddings.
+What is semantic search?,Semantic search retrieves information based on meaning rather than exact keyword matches.
+What is supervised learning?,Supervised learning is a machine learning approach where models are trained using labeled data.
+What is unsupervised learning?,Unsupervised learning finds patterns and structures in unlabeled data.
+What is reinforcement learning?,Reinforcement learning trains agents to make decisions through rewards and penalties.
+What is overfitting?,Overfitting occurs when a model learns training data too well and performs poorly on unseen data.
+What is underfitting?,Underfitting occurs when a model is too simple to capture underlying patterns in the data.
+What is a neural network?,"A neural network is a computational model inspired by the human brain, consisting of interconnected neurons."
+What is a chatbot?,A chatbot is a software application that simulates conversations with users.
+How does a retrieval-based chatbot work?,It retrieves the most similar question from a knowledge base and returns the associated answer.
+What is data preprocessing?,Data preprocessing involves cleaning and preparing data before training or indexing.
+What is a dataset?,A dataset is a structured collection of related data used for analysis or machine learning.
+What is pandas?,Pandas is a Python library used for data manipulation and analysis.
+What is NumPy?,NumPy is a Python library for numerical computing and array operations.
+What is an API?,An API allows different software applications to communicate with each other.
+What is Git?,Git is a distributed version control system used to track changes in source code.
+What is GitHub?,GitHub is a cloud platform for hosting and collaborating on Git repositories.
